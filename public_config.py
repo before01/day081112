@@ -1,5 +1,5 @@
 # 公共配置文件
 print("hello")
-print("b修改a")
-print("b change")
 
+print("a change2")
+print("啊啊啊")
